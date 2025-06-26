@@ -1,0 +1,40 @@
+Weather Forecast Application
+
+This is a simple weather forecast web application built using HTML, JavaScript, and Tailwind CSS.
+
+Features:
+
+Search weather by city name
+
+Get weather for current location
+
+Display current weather (temperature, humidity, wind, condition)
+
+Show 5-day weather forecast
+
+Recent searches using localStorage
+
+Responsive design for mobile, tablet, and desktop
+
+Error handling and input validation
+
+How to Use:
+
+Open index.html in your browser.
+
+Enter a city name and click Search or click 📍 to get weather using your current location.
+
+Recent searches appear in a dropdown for quick access.
+
+Setup:
+
+Replace 'YOUR_API_KEY' in the script section with your OpenWeatherMap API key.
+
+Get your key from: https://openweathermap.org/api
+
+Files
+
+index.html: file with HTML, CSS (Tailwind), and 
+main.js: file with JavaScript
+
+README.md: This instruction file
